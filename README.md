@@ -62,16 +62,16 @@ Strictly decouples the global system rule layer from individual object definitio
 ```text
 template/
 ├── core/
-|   └── core-template/
-│      ├── Core-Template_Header.md        # Boilerplate for global rules & department specs
-│      ├── Core-Template_Main.md          # Boilerplate for main storyline & timeline sequences
-│      └── Core-Template_Source.md        # Boilerplate for system-wide references & concepts
+|   └── core_template/
+│      ├── Core_Template_Header.md        # Boilerplate for global rules & department specs
+│      ├── Core_Template_Main.md          # Boilerplate for main storyline & timeline sequences
+│      └── Core_Template_Source.md        # Boilerplate for system-wide references & concepts
 │
 └── characters/
-    └── characters-template/
-        ├── Characters-Template_Header.md # Boilerplate for entity parameters & encapsulation
-        ├── Characters-Template_Main.md   # Boilerplate for entity characteristics & lines
-        └── Characters-Template_Source.md # Boilerplate for entity-specific design references
+    └── characters_template/
+        ├── Characters_Template_Header.md # Boilerplate for entity parameters & encapsulation
+        ├── Characters_Template_Main.md   # Boilerplate for entity characteristics & lines
+        └── Characters_Template_Source.md # Boilerplate for entity-specific design references
 ```
 
 ---
@@ -81,9 +81,9 @@ template/
 1. **Copy Templates**  
 Copy the contents of `template/` into your active worldbuilding workspace.
 2. **Define Core Rules**  
-Fill out [Core-Template_Header.md](./template/core/core-template/Core-Template_Header.md) to establish global constraints before creating entities.
+Fill out [Core_Template_Header.md](./template/core/core_template/Core_Template_Header.md) to establish global constraints before creating entities.
 3. **Encapsulate Entities**  
-Define independent character parameters inside [Characters-Template_Header.md](./template/characters/characters-template/Characters-Template_Header.md), ensuring internal state computations remain private to the entity.
+Define independent character parameters inside [Characters_Template_Header.md](./template/characters/characters_template/Characters_Template_Header.md), ensuring internal state computations remain private to the entity.
 4. **Link Narrative Sequences**  
 Reference defined headers inside `Main` files using structured Markdown relative links.
 
@@ -93,4 +93,4 @@ Reference defined headers inside `Main` files using structured Markdown relative
 
 * **Framework Templates (`template/` directory)**
   - Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
-  - The [MIT License](./LICENSE.md) applies ONLY to `template/`. All other directories (`docs/`, `reference_arts/`, etc.) remain strictly ALL RIGHTS RESERVED.
+  - The [MIT License](./LICENSE.md) applies ONLY to `template/`. All other directories (`docs/`, `reference_arts/`, etc.) remain strictly **`ALL_RIGHTS_RESERVED`**.

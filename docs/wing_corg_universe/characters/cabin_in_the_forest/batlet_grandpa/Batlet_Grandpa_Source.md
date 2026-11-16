@@ -4,6 +4,10 @@ magic: "UDOC/1"
 
 caster_key: batlet_grandpa
 
+defines:
+  "ALL_RIGHTS_RESERVED": hard_max
+  "-ALL_RIGHTS_RESERVED": hard_min
+
 values:
   max_hp_default: ALL_RIGHTS_RESERVED
   dps_default: ALL_RIGHTS_RESERVED

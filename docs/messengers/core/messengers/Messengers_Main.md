@@ -1149,7 +1149,7 @@ EPHESIANS 6:12
 ```
 
 * **영적 전쟁**
-  - [프리퀄](./Messengers_Main.md#prequel) -- 문장, *악한 권세들*
+  - [프리퀄](#prequel) -- 문장, *악한 권세들*
 
 ```text
 1 ENOCH 15:8
@@ -1159,11 +1159,11 @@ EPHESIANS 6:12
 ```
 
 * **네피림의 최후**
-  - [프리퀄](./Messengers_Main.md#prequel) -- 문장, *악한 영들*
+  - [프리퀄](#prequel) -- 문장, *악한 영들*
 * **MATTHEW 25:14-30**
-  - [신성 모독](./Messengers_Main.md#blasphemy) -- "악하고 게으른 종", "땅에 묻어 둘 수 있으나"
+  - [신성 모독](#blasphemy) -- "악하고 게으른 종", "땅에 묻어 둘 수 있으나"
 * **Majestic plural (장엄 복수)**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- 인칭 대명사
+  - [완곡어법](#euphemism) -- 인칭 대명사
 
 ```text
 1 ENOCH 14:7 [ 4Q204 ]
@@ -1173,7 +1173,7 @@ EPHESIANS 6:12
 ```
 
 * **Theodicy**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "우리는 영원히 너희의 청원을 듣지 아니하겠고, 너희의 청원은 너희에게 행해지지 않을 것이다!"
+  - [완곡어법](#euphemism) -- "우리는 영원히 너희의 청원을 듣지 아니하겠고, 너희의 청원은 너희에게 행해지지 않을 것이다!"
 
 ```text
 1 ENOCH 60:10
@@ -1181,13 +1181,13 @@ EPHESIANS 6:12
 ```
 
 * **Book of Noah 단편의 일부(고대 그으즈어(Ge'ez) 사본의 표현형 문장 부호의 부재로 인해 노아의 호기심에 대한 천사의 서두와 천사의 경고 등의 중의적 해석 가능)**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다."
+  - [완곡어법](#euphemism) -- "인자여, 너는 은밀한 것을 알아내기 위하여 이것을 구하는도다."
 * **1 KINGS 11:11**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "내가 반드시 네 [날개](./Messengers_Header.md#wings)를 네게서 빼앗아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)에게 주리라!"
+  - [완곡어법](#euphemism) -- "내가 반드시 네 [날개](./Messengers_Header.md#wings)를 네게서 빼앗아 [융합로](../../characters/purgatorium/milky/Milky_Header.md#fusion-core)에게 주리라!"
 * **MATTHEW 25 달란트 비유**
-  - [융합주의](./Messengers_Main.md#syncretism) -- "저는 제게 허락된 달란트를 제멋대로 깨뜨려 탕진했습니다... 그리고 저는 바깥 어두운 곳에 버려져 슬피 울며 이를 갈아야 합니다..."
+  - [융합주의](#syncretism) -- "저는 제게 허락된 달란트를 제멋대로 깨뜨려 탕진했습니다... 그리고 저는 바깥 어두운 곳에 버려져 슬피 울며 이를 갈아야 합니다..."
 * **1 SAMUEL 4-5 Ichabod (영광이 떠났다)**
-  - [융합주의](./Messengers_Main.md#syncretism) -- "성령이 빠져나간 언약궤"
+  - [융합주의](#syncretism) -- "성령이 빠져나간 언약궤"
 
 ```text
 ROMANS 8:28
@@ -1195,8 +1195,8 @@ ROMANS 8:28
 ```
 
 * **모든 것이 합력하여 선을 이루느니라**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "그 선 안으로, 모든 것들이 계속하여 합력하게 되고 있음을 너희는 알지 못하느냐?"
-  - [위아래](./Messengers_Main.md#up-down) -- '그 선 안으로, 모든 것들이 계속하여 합력하는'
+  - [완곡어법](#euphemism) -- "그 선 안으로, 모든 것들이 계속하여 합력하게 되고 있음을 너희는 알지 못하느냐?"
+  - [위아래](#up-down) -- '그 선 안으로, 모든 것들이 계속하여 합력하는'
 
 ```text
 LUKE 22:26
@@ -1204,14 +1204,14 @@ LUKE 22:26
 ```
 
 * **섬김과 겸손**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "그 이끌고 있는 자는 그 시중들고 있는 자와도 같이 되리라!"
-  - [위아래](./Messengers_Main.md#up-down) -- "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!"
+  - [완곡어법](#euphemism) -- "그 이끌고 있는 자는 그 시중들고 있는 자와도 같이 되리라!"
+  - [위아래](#up-down) -- "우리 가운데서 그 더 큰 자는 그 더 젊은 자처럼 계속되어야 하고, 그리고 그 이끌고 있는 자는 그 시중들고 있는 자와도 같이!"
 * **Ῥέα**
-  - [위아래](./Messengers_Main.md#up-down) -- "새겨진 우상(Graven Image) 엄마"
+  - [위아래](#up-down) -- "새겨진 우상(Graven Image) 엄마"
 * **Φιλύρα**
-  - [위아래](./Messengers_Main.md#up-down) -- "간음한 새엄마"
+  - [위아래](#up-down) -- "간음한 새엄마"
 * **Ἀμάλθεια**
-  - [위아래](./Messengers_Main.md#up-down) -- "염소 엄마"
+  - [위아래](#up-down) -- "염소 엄마"
 
 ```text
 BUKHARI 5057, MUSLIM 1066
@@ -1219,9 +1219,9 @@ BUKHARI 5057, MUSLIM 1066
 ```
 
 * **거짓 선지자들**
-  - [스핀오프](./Messengers_Main.md#spin-off) -- 문장
+  - [스핀오프](#spin-off) -- 문장
 * **HOSEA 6:6**
-  - [쉬는 시간](./Messengers_Main.md#break-time) -- "엄격한 **제사**보다는 느슨한 **인애**"
+  - [쉬는 시간](#break-time) -- "엄격한 **제사**보다는 느슨한 **인애**"
 
 ```text
 The Lives and Opinions of Eminent Philosophers, Book VI. 54
@@ -1229,9 +1229,9 @@ The Lives and Opinions of Eminent Philosophers, Book VI. 54
 ```
 
 * **디오게네스에 대한 플라톤의 평가**
-  - [유리 멘탈](./Messengers_Main.md#fragile) -- "미친 소크라테스"
+  - [유리 멘탈](#fragile) -- "미친 소크라테스"
 * **바벨탑**
-  - [철거](./Messengers_Main.md#demolition) -- *불법 건축물*
+  - [철거](#demolition) -- *불법 건축물*
 
 ```text
 JOHN 1:5
@@ -1239,8 +1239,8 @@ JOHN 1:5
 ```
 
 * **빛이 어둠에 비치되 어둠이 깨닫지 못하더라**
-  - [완곡어법](./Messengers_Main.md#euphemism) -- "온화함이 달래야 하는 하늘 속에서 계속 비추고 있으되, 달래야 하는 하늘은 그것을 깨닫지 못하였도다."
-  - [철거](./Messengers_Main.md#demolition) -- "빛이 어둠 속에서 비쳤다."
+  - [완곡어법](#euphemism) -- "온화함이 달래야 하는 하늘 속에서 계속 비추고 있으되, 달래야 하는 하늘은 그것을 깨닫지 못하였도다."
+  - [철거](#demolition) -- "빛이 어둠 속에서 비쳤다."
 
 ```text
 4Q530 7 ii 4–5
@@ -1253,7 +1253,7 @@ Kawān, Text C:3-5
 ```
 
 * **마웨이의 비행**
-  - [철거](./Messengers_Main.md#demolition) -- *[보스](../../characters/hell/boss/Boss_Header.md)는 회오리바람처럼 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
+  - [철거](#demolition) -- *[보스](../../characters/hell/boss/Boss_Header.md)는 회오리바람처럼 [아이기스](../../characters/hell/boss/Boss_Header.md#aegis)의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
 
 ```text
 4Q530 7 ii 6–[...]
@@ -1275,11 +1275,11 @@ Kawān, Text G:1-11
 > *"태양의 닫힌 문이 열릴 것이니, 태양의 빛과 열기가 내려와 네 날개에 불을 붙일 것이다. 너는 타 죽고 말 것이다." 그가 말했다. 이 말을 듣고 나는 날개를 퍼덕여 급히 공중에서 아래로 내려왔다.*
 
 * **사해 문서 판본에 없는, 마니교 판본의 거인의 서**
-  - [철거](./Messengers_Main.md#demolition) -- "땅에 너무 가깝게 날았군요..."
+  - [철거](#demolition) -- "땅에 너무 가깝게 날았군요..."
 * **JUBILEES Mastema**
-  - [철거](./Messengers_Main.md#demolition) -- "마스테마"
+  - [철거](#demolition) -- "마스테마"
 * **ECCLESIASTES 1:2**
-  - [재탄생](./Messengers_Main.md#rebirth) -- *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
+  - [재탄생](#rebirth) -- *헛되고 헛되며 헛되니 모든 것이 헛되도다!*
 * **[Aphrodite Meilichia](../../characters/purgatorium/milky/Milky_Source.md)**  
 **κεστός ἱμάς**
   - **(미스) [밀키](../../characters/purgatorium/milky/Milky_Header.md)**
@@ -1300,7 +1300,7 @@ Kawān, Text G:1-11
 > *그리고 그 천사가 내게로 와서, 그리고 나에게 문안하며 그의 음성으로, 그리고 내게 말하였다.<br>네가 바로 의를 위하여 태어난 인자이니라;<br>그리고 의가 네 위에 머무니라;<br>그리고 날들의 머리의 의가, 너를 떠나지 아니하리라.*
 
 * **제2성전기 인자 개념**
-  - [재탄생](./Messengers_Main.md#rebirth) -- "너는 의를 위하여 태어난 인자로다."
+  - [재탄생](#rebirth) -- "너는 의를 위하여 태어난 인자로다."
 
 ```text
 Ecce Homo, Zarathustra § 1
@@ -1312,7 +1312,7 @@ Ecce Homo, Zarathustra § 1
 **θύρσος**
   - **(위버멘쉬) [오피스](../../characters/purgatorium/milky/Milky_Header.md#ophis)**
 * **Aphrodite와 Dionysos의 관계**
-  - [재탄생](./Messengers_Main.md#rebirth) -- *(기병 전술)*
+  - [재탄생](#rebirth) -- *(기병 전술)*
 
 ```text
 The Gay Science, § 125
@@ -1336,10 +1336,10 @@ The Gay Science, § 125
   - [연옥](./Messengers_Header.md#purgatorium) -- 기본
 * **נְהַר דִּי-נ֥וּר(네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
   - [연옥](./Messengers_Header.md#purgatorium) -- 연출
-  - [신곡](./Messengers_Main.md#comedy) -- "죽은 자를 위한 기도"
+  - [신곡](#comedy) -- "죽은 자를 위한 기도"
 * **Pschent를 쓰고 Thyrsus와 Caduceus를 들고 있는 [Agathodaemon](../../characters/hell/misfortune/Misfortune_Source.md)**  
-  - [재탄생](./Messengers_Main.md#rebirth) -- *(티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole))*
-  - [신곡](./Messengers_Main.md#comedy) -- *(죄악이 흥건한 티르소스-카두케우스)*
+  - [재탄생](#rebirth) -- *(티르소스-카두케우스 형태의 [바이폴](../../characters/purgatorium/milky/Milky_Header.md#multipole))*
+  - [신곡](#comedy) -- *(죄악이 흥건한 티르소스-카두케우스)*
 
 ```text
 3 ENOCH 9:4
@@ -1347,7 +1347,7 @@ The Gay Science, § 125
 ```
 
 * **365,000개의 눈**
-  - [신곡](./Messengers_Main.md#comedy) -- "죽은 자를 위한 기도 365,000개"
+  - [신곡](#comedy) -- "죽은 자를 위한 기도 365,000개"
 
 ```text
 LA COMMEDIA DI DANTE ALIGHIERI Inf. I, 67-72
@@ -1360,7 +1360,7 @@ LA COMMEDIA DI DANTE ALIGHIERI Inf. I, 67-72
 ```
 
 * **nel tempo de li dèi falsi e bugiardi (거짓되고 기만적인 신들의 시대에)**
-  - [신곡](./Messengers_Main.md#comedy) -- "**거짓되고 기만적인 신들의 시대에**"
+  - [신곡](#comedy) -- "**거짓되고 기만적인 신들의 시대에**"
 
 ```text
 1 ENOCH 41:9
@@ -1373,7 +1373,7 @@ JUBILEES 5:16
 ```
 
 * **의로우신 심판자**
-  - [시퀄](./Messengers_Main.md#sequel) -- 문장
+  - [시퀄](#sequel) -- 문장
 
 ```text
 MEGILLAH 10b, SANHEDRIN 39b
@@ -1385,13 +1385,13 @@ MEGILLAH 10b, SANHEDRIN 39b
 
 * **홍해가 갈라지고 애굽군이 수장되어 천사들이 기쁨의 찬가를 부르려던 때**
   - [심판](./Messengers_Header.md#judgment) -- 기본
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- 기본
+  - [심판의 날](#judgment-day) -- 기본
 * **REVELATION 22:13**
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- "알파로부터 오메가에 이르기까지"
+  - [심판의 날](#judgment-day) -- "알파로부터 오메가에 이르기까지"
 * **DEUTERONOMY 6:5**
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- "마음을 다하고 뜻을 다하고 힘을 다하여!"
+  - [심판의 날](#judgment-day) -- "마음을 다하고 뜻을 다하고 힘을 다하여!"
 * **1 JOHN 4:19**
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라."
+  - [심판의 날](#judgment-day) -- "우리가 사랑하기 전부터 주께서 우리를 사랑하셨음이라."
 
 ```text
 PSALMS 66:18
@@ -1399,9 +1399,9 @@ PSALMS 66:18
 ```
 
 * **If I regard 주격 표현(Vulgate 포함, 상당히 많은 번역본에서 표현 희석)**
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니,"
+  - [심판의 날](#judgment-day) -- "**죄악을!** 만일 **내가!** 내 마음에 **보았더라면!** 주께서 듣지 아니하시리니,"
 * **PSALMS 6:5**
-  - [심판의 날](./Messengers_Main.md#judgment-day) -- "스올에서도 주를 찬양하리이다."
+  - [심판의 날](#judgment-day) -- "스올에서도 주를 찬양하리이다."
 
 ```text
 REVELATION 3:16
@@ -1409,13 +1409,13 @@ REVELATION 3:16
 ```
 
 * **ℵ, 051, 1, 2020, 2050, 2062 (οὔτε ψυχρὸς οὔτε ζεστός(차지도 아니하고 뜨겁지도 아니하니)) / A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR(οὔτε ζεστός οὔτε ψυχρός(뜨겁지도 아니하고 차지도 아니하니))**
-  - [가시](./Messengers_Main.md#thorn) -- "미지근해지지 않도록"
+  - [가시](#thorn) -- "미지근해지지 않도록"
 * **2 CORINTHIANS 12:7**
-  - [가시](./Messengers_Main.md#thorn) -- "사탄의 사자"
+  - [가시](#thorn) -- "사탄의 사자"
 * **MATTHEW 22:30**
-  - [첫 데이트](./Messengers_Main.md#first-date) -- "사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?"
+  - [첫 데이트](#first-date) -- "사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?"
 * **Hesychasm, Palamism(Anti-Nihilism)**
-  - [첫 데이트](./Messengers_Main.md#first-date) -- 게힌놈과 네하르 디누르의 동일성
+  - [첫 데이트](#first-date) -- 게힌놈과 네하르 디누르의 동일성
 * **Cup of Elijah(REVELATION 이후)**  
 **Spilling the wine for the plagues(Elegy 요소)**
-  - [첫 데이트](./Messengers_Main.md#first-date) -- 잔(제한적 인용)
+  - [첫 데이트](#first-date) -- 잔(제한적 인용)

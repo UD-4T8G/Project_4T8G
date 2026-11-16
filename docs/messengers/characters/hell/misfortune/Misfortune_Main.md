@@ -37,7 +37,7 @@
 ## world-building
 
 * **Copper alloy statuette of the god Sarapis Amun Agathodaemon (National Archaeological Museum of Athens 소장)**
-  - [특징](./Misfortune_Main.md#characteristics)
+  - [특징](#characteristics)
 * **융합주의(Agathos Daimon)**
   - [코르누코피아](./Misfortune_Header.md#cornucopia)
   - [스피릿](./Misfortune_Header.md#spirit)

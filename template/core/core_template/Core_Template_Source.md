@@ -7,12 +7,6 @@ meta:
 
 limits: { hard_min: -2147483648, hard_max: 2147483647 }
 
-defines:
-  "4T8G": hard_max
-  "-4T8G": hard_min
-  "ALL_RIGHTS_RESERVED": hard_max
-  "-ALL_RIGHTS_RESERVED": hard_min
-
 schema:
   max_hp_default:
     kind: stored

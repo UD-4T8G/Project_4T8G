@@ -2,6 +2,10 @@
 
 magic: "UDOC/1"
 
+defines:
+  "4T8G": hard_max
+  "-4T8G": hard_min
+
 caster_key: cursing_grandma
 
 values:

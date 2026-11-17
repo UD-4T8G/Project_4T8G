@@ -10,7 +10,7 @@ defines:
 
 values:
   max_hp_default: All rights reserved
-  dps_default: All rights reserved
+  damage_default: All rights reserved
   movement_speed_default: All rights reserved
   attack_speed_default: All rights reserved
   projectile_aoe_default: All rights reserved
@@ -24,115 +24,115 @@ actions:
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        apply: { holder: target, source: max_hp, fixed: false }
+        apply: { dest: max_hp, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        apply: { holder: target, source: max_hp, fixed: false }
+        apply: { dest: max_hp, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: max_hp }
+        apply: { dest: damage, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: max_hp }
+        apply: { dest: damage, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: dps }
+        apply: { dest: movement_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: dps }
+        apply: { dest: movement_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: movement_speed }
+        apply: { dest: attack_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: movement_speed }
+        apply: { dest: attack_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: attack_speed }
+        apply: { dest: projectile_aoe, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: attack_speed }
+        apply: { dest: projectile_aoe, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_aoe }
+        apply: { dest: projectile_range, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_aoe }
+        apply: { dest: projectile_range, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_range }
+        apply: { dest: projectile_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_range }
+        apply: { dest: projectile_speed, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_speed }
+        apply: { dest: current_hp, holder: batlet_grandpa, source: damage, fixed: true }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
-        duration: All rights reserved
-        tick: 1
+        tick: 0
+        count: All rights reserved
         factor: All rights reserved
-        effect: { stat: projectile_speed }
+        apply: { dest: current_hp, holder: batlet_grandpa, source: damage, fixed: true }
 
 sequences:
   body_slam:

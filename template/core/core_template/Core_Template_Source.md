@@ -17,20 +17,20 @@ schema:
   max_hp:
     kind: state
     unit: point
-  hp:
+  current_hp:
     kind: state
     unit: point
   lost_hp:
     kind: state
     unit: point
 
-  dps_default:
+  damage_default:
     kind: stored
     unit: point
-  dps_change:
+  damage_change:
     kind: delta
     unit: percent
-  dps:
+  damage:
     kind: state
     unit: point
 
@@ -56,7 +56,7 @@ schema:
 
   projectile_aoe_default:
     kind: stored
-    unit: percent   
+    unit: percent
   projectile_aoe_change:
     kind: delta
     unit: percent
@@ -86,24 +86,24 @@ schema:
 
 payload:
   type: object
-  required: [ caster, targets, ratio, duration, tick, factor ]
-  one_of: [ apply, effect ]
+  required: [ caster, targets, ratio, tick, count, factor, apply ]
   properties:
     caster:
       type: string
     targets:
       type: array
-      items: { type: enum, values: [ ally, enemy ] }
+      items:
+        type: enum
+        values: [ ally, enemy ]
     ratio:
       type: integer
       unit: percent
-    duration:
-      type: integer
-      unit: point
-      minimum: 1
     tick:
       type: integer
       unit: point
+      minimum: 0
+    count:
+      type: integer
       minimum: 1
     factor:
       type: integer
@@ -111,16 +111,14 @@ payload:
       minimum: 1
     apply:
       type: object
-      required: [ holder, source, fixed ]
+      required: [ dest, holder, source ]
       properties:
+        dest: { type: string }
         holder: { type: string }
         source: { type: string }
-        fixed: { type: boolean }
-    effect:
-      type: object
-      required: [ stat ]
-      properties:
-        stat: { type: string }
+        fixed:
+          type: boolean
+          default: false
 
 actions:
   type: map
@@ -177,41 +175,49 @@ sequences:
     + 불변 자료형 사용(생성 후 변경 불가, 중첩 요소도 동일)
 * **kind**
   - stored는 기본 능력치의 magic_number를 기입하는 정적 항목
-  - delta는 능력치 변동 목록 stat의 최종 연산값을 나타내는 동적 항목
+  - delta는 능력치 변동 목록 dest의 최종 연산값을 나타내는 동적 항목
   - state는 stored와 delta의 최종 연산값인 source를 나타내는 동적 항목
 * **unit**
   - 모든 숫자는 **point (%p), percent (%)** 스타일로 표기
   - 모든 지속시간은 **1초 당 100%p**로 표기
-* hp
+* current_hp
   - 런타임 동적 항목
+* lost_hp
+  - max_hp - current_hp
 * **caster**
   - 시전자 태그 항목
   - 런타임에서 `caster_key#(고유ID)` 형식으로 발급
   - 문서에 직접 기입한 값은 런타임 테스트 전용 고정 태그
 * **ratio**
-  - source 적용 배율 수치 항목
-  - stat 적용 배율 수치 항목
+  - source 적용 백분율 수치 항목
+  - dest 적용 백분율 수치 항목
   - 음수 허용
 * **tick**
   - 적용 간격 수치 항목
-  - duration보다 적거나 같은 수치 적용
   - 타수와 무관한 단일 타격 안의 지속 효과 간격
+  - percent 능력치에 0 사용 시 최소 단위로 적용
+* **count**
+  - tick 발동 횟수
 * **factor**
   - tick 당 ratio 변동 곱연산 수치 항목
   - 첫 tick 부터 적용
 * **apply**
-  - hp 수치 변동 항목
+  - 스냅샷 능력치 탑다운 적용
+  - dest
+    + 수치 변동 대상 능력치 항목
   - holder
     + source를 불러올 target 항목
+    + target은 적중 대상의 런타임 확정 예약어
   - source
     + holder의 state 항목
   - fixed
     + change 무시 여부 항목
-* stat
-  - speed
+* dest
+  - point
+    + current_hp
+  - percent
     + movement_speed
     + attack_speed
-  - projectile
     + projectile_aoe
     + projectile_range
     + projectile_speed

@@ -38,7 +38,7 @@
 
 * ***빨랫방망이 할아버지 기획자는 UD의 친동생이다.***
 * 빨랫방망이 할아버지 기획 계기는 *설민석의 한국사 대모험*의 등장인물 *태학장*에 대한 빨랫방망이 할아버지 기획자의 제안이었다.
-* [엮은이](./Batlet_Grandpa_Header.md#editor) 기획 계기는 책의 *엮은이*란 무엇인가에 대한 [빨랫방망이 할아버지](../../characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md) 기획자의 의문이었다.
+* [엮은이](./Batlet_Grandpa_Header.md#editor) 기획 계기는 책의 *엮은이*란 무엇인가에 대한 [빨랫방망이 할아버지](./Batlet_Grandpa_Header.md) 기획자의 의문이었다.
 * 빨랫방망이 할아버지와 [욕쟁이 할머니](../../cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md) 간 우열 논쟁은 기획자 간 다툼으로 번지면서 결국 구상되지 않았다.
 
 ---

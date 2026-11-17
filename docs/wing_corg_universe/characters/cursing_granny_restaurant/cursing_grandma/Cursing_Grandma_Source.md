@@ -10,7 +10,7 @@ caster_key: cursing_grandma
 
 values:
   max_hp_default: 4T8G
-  dps_default: 4T8G
+  damage_default: 4T8G
   movement_speed_default: 4T8G
   attack_speed_default: 4T8G
   projectile_aoe_default: 4T8G
@@ -24,115 +24,115 @@ actions:
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        apply: { holder: target, source: max_hp, fixed: false }
+        apply: { dest: max_hp, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        apply: { holder: target, source: max_hp, fixed: false }
+        apply: { dest: max_hp, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: max_hp }
+        apply: { dest: damage, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: max_hp }
+        apply: { dest: damage, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: dps }
+        apply: { dest: movement_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: dps }
+        apply: { dest: movement_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: movement_speed }
+        apply: { dest: attack_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: movement_speed }
+        apply: { dest: attack_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: attack_speed }
+        apply: { dest: projectile_aoe, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: attack_speed }
+        apply: { dest: projectile_aoe, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_aoe }
+        apply: { dest: projectile_range, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_aoe }
+        apply: { dest: projectile_range, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_range }
+        apply: { dest: projectile_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_range }
+        apply: { dest: projectile_speed, holder: cursing_grandma, source: damage }
       - caster: cursing_grandma
         targets: [ ally ]
         ratio: 4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_speed }
+        apply: { dest: current_hp, holder: cursing_grandma, source: damage, fixed: true }
       - caster: cursing_grandma
         targets: [ enemy ]
         ratio: -4T8G
-        duration: 4T8G
-        tick: 1
+        tick: 0
+        count: 4T8G
         factor: 4T8G
-        effect: { stat: projectile_speed }
+        apply: { dest: current_hp, holder: cursing_grandma, source: damage, fixed: true }
 
 sequences:
   body_slam:

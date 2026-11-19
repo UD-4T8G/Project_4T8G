@@ -1,41 +1,33 @@
 ---
 
 "Project 4T8G":
-  "4taegeuk8gua":
-    license: "All rights reserved"
-    cross: "☯"
-    trinity: "☰"
-    ichthus: "☱"
-    fire: "☲"
-    swastika: "☳"
-    typhoon: "☴"
-    water: "☵"
-    bolt: "☶"
-    hexagram: "☷"
-  README:
-    license: "All rights reserved"
-  LICENSE:
-    "Split Licensing":
-      - "MIT License"
-      - "All rights reserved"
-  template:
-    license: "MIT License"
-    characters:
-      characters_template:
+  template/:
+    characters/:
+      characters_template/:
         - "Characters_Template_Header.md"
         - "Characters_Template_Main.md"
         - "Characters_Template_Source.md"
-    core:
-      core_template:
+    core/:
+      core_template/:
         - "Core_Template_Header.md"
         - "Core_Template_Main.md"
         - "Core_Template_Source.md"
-  docs:
-    license: "All rights reserved"
+    "LICENSE.md": "MIT License"
 
 ---
 
 > *Prose, structured. Lore, intact.*
+
+* "4taegeuk8gua":
+  - cross: "☯"
+  - trinity: "☰"
+  - ichthus: "☱"
+  - fire: "☲"
+  - swastika: "☳"
+  - typhoon: "☴"
+  - water: "☵"
+  - bolt: "☶"
+  - hexagram: "☷"
 
 ---
 
@@ -83,11 +75,3 @@
 * **3. Explore & Validate**
   - Open the project folder as an **`Obsidian`** vault to navigate bidirectional links, inspect the graph view, and verify that no anchor links are broken.
   - Run **`Markdoc`** validation against your `*_Header.md` files to enforce structural schema rules as your project scales.
-
----
-
-## license
-
-* **Framework Templates (`template/` directory)**
-  - Licensed under the open-source **[MIT License](./LICENSE.md)**. Anyone is free to use, adapt, and distribute these architectural schemas for their own worldbuilding projects.
-  - The [MIT License](./LICENSE.md) applies ONLY to `template/`. All other directories (`docs/`, etc.) remain strictly **`All rights reserved`**.

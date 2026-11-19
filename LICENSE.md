@@ -1,9 +1,14 @@
-# MIT License
+---
 
-* Copyright (c) 2026 UD ([`Cursing Grandma PM`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)), [The MIT License applies ONLY to `template/`. All other directories (`docs/`, etc.) remain strictly **`All rights reserved`**.](./README.md#license) ([`Batlet Grandpa PM`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body))
+"Project 4T8G":
+  "LICENSE.md":
+    "template/**/*": "MIT License"
+    "!template/**/*": "All rights reserved"
 
-* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+---
 
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## license
 
-* THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* **Open-core model**
+  - **`template/**/*`:** Copyright (c) 2026 UD ([`Cursing Grandma PM`](./docs/wing_corg_universe/characters/cursing_granny_restaurant/cursing_grandma/Cursing_Grandma_Header.md)). **[`MIT License`](./template/LICENSE.md)**.
+  - **`!template/**/*`:** Copyright (c) 2026 UD, [`Batlet Grandpa PM`](./docs/wing_corg_universe/characters/cabin_in_the_forest/batlet_grandpa/Batlet_Grandpa_Header.md#body). **`All rights reserved`**. 

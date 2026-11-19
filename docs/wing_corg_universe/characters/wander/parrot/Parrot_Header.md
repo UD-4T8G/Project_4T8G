@@ -1,7 +1,7 @@
 ---
 
 name: 앵무새
-alias: 가짜 라카이
+alias: 가짜 그레이븐
 position: 좀비
 department: 둥지
 gender: 여성

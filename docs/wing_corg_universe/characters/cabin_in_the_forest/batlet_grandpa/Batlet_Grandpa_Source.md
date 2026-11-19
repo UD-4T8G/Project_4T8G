@@ -27,98 +27,98 @@ actions:
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: max_hp, holder: batlet_grandpa, source: damage }
+        apply: { dest: max_hp_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: max_hp, holder: batlet_grandpa, source: damage }
+        apply: { dest: max_hp_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: damage, holder: batlet_grandpa, source: damage }
+        apply: { dest: damage_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: damage, holder: batlet_grandpa, source: damage }
+        apply: { dest: damage_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: movement_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: movement_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: movement_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: movement_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: attack_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: attack_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: attack_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: attack_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_aoe, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_aoe_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_aoe, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_aoe_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_range, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_range_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_range, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_range_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ enemy ]
         ratio: -All rights reserved
         tick: 0
         count: All rights reserved
         factor: All rights reserved
-        apply: { dest: projectile_speed, holder: batlet_grandpa, source: damage }
+        apply: { dest: projectile_speed_change, holder: batlet_grandpa, source: damage }
       - caster: batlet_grandpa
         targets: [ ally ]
         ratio: All rights reserved

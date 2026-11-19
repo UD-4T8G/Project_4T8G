@@ -30,7 +30,7 @@ actions:
         tick: 100
         count: 5
         factor: 100
-        apply: { dest: movement_speed, holder: target, source: lost_hp }
+        apply: { dest: movement_speed_change, holder: target, source: lost_hp }
 
 sequences:
   template_sequence_1:

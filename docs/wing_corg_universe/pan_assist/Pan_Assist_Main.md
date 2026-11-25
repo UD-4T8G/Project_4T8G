@@ -7,9 +7,9 @@
 
 ### lines
 
-> **판비:** "[윙~! 코기](../wing_corgi/Wing_Corgi_Header.md) 씨~?" (**[윙코기](../wing_corgi/Wing_Corgi_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
+> **판비:** "[윙\~! 코기](../wing_corgi/Wing_Corgi_Header.md) 씨\~?" (**[윙코기](../wing_corgi/Wing_Corgi_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
 
-> **판비:** "[그레~! 이븐](../graven/Graven_Header.md) 씨~?" (**[그레이븐](../graven/Graven_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
+> **판비:** "[그레\~! 이븐](../graven/Graven_Header.md) 씨\~?" (**[그레이븐](../graven/Graven_Header.md):** "**왜!**") "엄청난 일이 일어났습니다."
 
 ---
 

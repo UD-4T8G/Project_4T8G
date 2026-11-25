@@ -25,11 +25,10 @@
 
 ## concept
 
-* 보스는 *성전환된 황금 제우스* 아이디어에 대한 안티테제로 구상되었다.
-* 보스는 [심판](../messengers/Messengers_Header.md#judgment)으로 인해 *자아가 거세된 악령*으로 구상되었으나, 구현되지 않았다.
-* 보스는 [버디](../buddy/Buddy_Header.md)의 안티테제로 구상되었으나, 구현되지 않았다.
-* 보스는 [사자들](../messengers/Messengers_Header.md) 세계관의 방향이 잡히면서 역할이 모호해지기도 하였다.
-* 보스 설정 기획에 집중하게 되면서 장비 수가 적은 상태로 기획이 중단되었다.
+* 보스 기획 이전에는 [심판](../messengers/Messengers_Header.md#judgment)으로 자아가 거세된 악령 제우스가 성전환된 황금 제우스를 사냥하는 설정이었으나 무산되었다.
+* [사자들](../messengers/Messengers_Header.md) 세계관 기획 과정에서 보스의 설정은 빈번하게 변경되었으나, 적어도 난봉꾼 제우스의 안티테제 설정은 유지되었다.
+* 보스는 전술 설정에서 [버디](../buddy/Buddy_Header.md)의 안티테제로 구현되었다.
+
 
 ---
 

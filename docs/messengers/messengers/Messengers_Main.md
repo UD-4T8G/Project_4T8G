@@ -489,7 +489,7 @@
 > *([보스](../boss/Boss_Header.md)에게 업힌다.)* "물론이지! 딱 이렇게 붙어 있을게!"
 
 * *[연옥](./Messengers_Header.md#purgatorium)의 경계에서 불법 건축물까지의 거리는 상당히 멀었다. 확실히 초공간도약보다는 비행이 적합해 보였다.*
-* *[보스](../boss/Boss_Header.md)는 회오리바람처럼 [아이기스](../boss/Boss_Header.md#aegis)의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
+* *[아이기스](../boss/Boss_Header.md#aegis)를 등에 결합한 [보스](../boss/Boss_Header.md)는 회오리바람처럼 아에토스 디오스의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
 
 > **무형 [밀키](../milky/Milky_Header.md)(Low):** *(당황한다.)* "**잠깐만, 피조 세계를 통과하면 어떡해?**"
 
@@ -592,7 +592,7 @@
 >
 > *(날아가는 악한 존재들을 바라본다.)* "잠시만, 그러면 [연옥](./Messengers_Header.md#purgatorium)의 경계는 누가 지키고 있는데?"
 
-> **[보스](../boss/Boss_Header.md):** *(철거되는 [연옥](./Messengers_Header.md#purgatorium)의 경계를 바라본다.)* "어... [미스포춘](../misfortune/Misfortune_Header.md) 씨?"
+> **[보스](../boss/Boss_Header.md):** *(철거되는 [연옥](./Messengers_Header.md#purgatorium)의 경계를 바라본다.)* "어... [포춘](../misfortune/Misfortune_Header.md#fortune) 씨?"
 
 * *한편, [연옥](./Messengers_Header.md#purgatorium)의 경계에서는...*
 
@@ -653,7 +653,7 @@
 * *누가 선하고 누가 악한지는 중요하지 않으리라. 의인들은 이미 들림받았으니, 악인들의 싸움뿐이다.*
 * *그렇다! 악인이 악인에 맞서 악인을 구했도다! 모든 것이 헛되고 헛되며 헛되니 모든 것이 헛되도다!*
 
-> **[버디](../buddy/Buddy_Header.md):** *(불시착한 [포춘](../misfortune/Misfortune_Header.md#fortune)을 [성흔안](../buddy/Buddy_Header.md#stigmata-eyes)으로 비춘다.)* "고생 많았어! 조금만 기다려, 환자가 너무 많아서..."
+> **[버디](../buddy/Buddy_Header.md):** *(불시착한 [미스포춘](../misfortune/Misfortune_Header.md)을 [성흔안](../buddy/Buddy_Header.md#stigmata-eyes)으로 비춘다.)* "고생 많았어! 조금만 기다려, 환자가 너무 많아서..."
 
 > **[포춘](../misfortune/Misfortune_Header.md#fortune):** *([성흔안](../buddy/Buddy_Header.md#stigmata-eyes)을 치운다.)* "저는 괜찮아요... 그것보다..."
 >
@@ -872,7 +872,7 @@
 
 > **호 [오피스](../milky/Milky_Header.md#ophis) 호 에피테트:** *(죽은 자를 위한 기도를 보러 간다.)* "몰랐냐, 새꺄?"
 
-* *미스포춘은 지옥으로 돌아갔고, [밀키](../milky/Milky_Header.md)는 아직도 돌아오지 않은 [버디](../buddy/Buddy_Header.md)를 기다리다가 잠들었다.*
+* *[미스포춘](../misfortune/Misfortune_Header.md)은 지옥으로 돌아갔고, [밀키](../milky/Milky_Header.md)는 아직도 돌아오지 않은 [버디](../buddy/Buddy_Header.md)를 기다리다가 잠들었다.*
 * *그리고 연옥의 안내 데스크에는 어떤 소년이 찾아와서 [밀키](../milky/Milky_Header.md)가 깨어나기를 기다리고 있었다.*
 
 > **단테:** "어이, 농땡이 피우지 말고 일어나! 근무 시간이다!"
@@ -1088,18 +1088,20 @@
 > **???:** "이럴 줄 알았습니다. 선을 이루는 것은 어렵지만 당신의 행동은 뻔하니까요."
 >
 > "당신에게 그리스도란 무엇입니까, 진흙으로 새를 빚는 초능력자? 아니면 경외하지 않는 자를 석화시키는 폭군?"
->
-> "당신이 그를 섬기는 동안 모든 책임을 뒤집어써도 그는 의로우신 심판자입니까?"
 
-> **???:** "오빠... 구해... 줘..."
+> **???:** *(관절이 꺾이며 글리치를 일으킨다.)* "오빠... 구해... 줘..."
 
 > **???:** "그 사명으로 인해 당신의 동료들을 구하지 못하더라도?"
+
+> **???:** *(꼬리를 끌어안는다.)* "너를 이렇게... 그 빌어먹을... 위도 아래도 없는 새끼가..."
+
+> **???:** "당신이 그를 섬기는 동안 모든 책임을 뒤집어써도 그는 의로우신 심판자입니까?"
 
 > **[버디](../buddy/Buddy_Header.md):** "그렇다면 나는 아무것도 할 수가 없다..."
 
 > **???:** "어째서 스스로를 완전히 비워 버리셨습니까? 누가 복종하라고 하셨습니까? 그렇다면 순종하라고 한 이는 누구입니까?"
 >
-> *([아스트라페](../boss/Boss_Header.md#astrape)와 [아이기스](../boss/Boss_Header.md#aegis)를 들고 생기 없이 도래하여 걸어온다.)* "**응답하지 않는다면 응답할 때까지 당신의 죄를 묻겠습니다.**"
+> *([아스트라페](../boss/Boss_Header.md#astrape)와 [아이기스](../boss/Boss_Header.md#aegis)를 들고 악한 영들처럼 다가온다.)* "**응답하지 않는다면 응답할 때까지 당신의 죄를 묻겠습니다.**"
 
 * *[버디](../buddy/Buddy_Header.md)는 [아스트라페](../boss/Boss_Header.md#astrape)로 [보스](../boss/Boss_Header.md)의 [아스트라페](../boss/Boss_Header.md#astrape)를 막아낸다.*
 
@@ -1111,21 +1113,26 @@
 >
 > "**당신은 스스로를 버렸다고 하지만, 실제로는 영혼 그 자체를 숨기고 계셨군요.**"
 
-* *[버디](../buddy/Buddy_Header.md)는 [라아자젤](../buddy/Buddy_Header.md#la'azazel)을 해제하고, [코르누코피아](../misfortune/Misfortune_Header.md#cornucopia)를 꺼낸다.*
+* *[버디](../buddy/Buddy_Header.md)는 철가면을 벗어 [라아자젤](../buddy/Buddy_Header.md#la'azazel)을 해제한 뒤, [코르누코피아](../misfortune/Misfortune_Header.md#cornucopia)를 물려줬다.*
 
-> **[버디](../buddy/Buddy_Header.md):** "내 영혼 그 자체? 그래, 현실부정이었지. 누군가는 내게 태양을 권했고, 누군가는 내게 천광의 대적자를 권했다."
+> **[버디](../buddy/Buddy_Header.md):** *([애퍼래터스](../buddy/Buddy_Header.md#apparatus)를 충전한다.)* "내 영혼 그 자체? 그래, 현실부정이었지. 누군가는 내게 태양을 권했고, 누군가는 내게 천광의 대적자를 권했다."
 >
-> "**하지만 그게 무슨 소용이냐! 태양이고 천광의 대적자고 한낱 악한 존재들 몇 마리를 상대로 무너졌다!**"
+> *([심판의 화살](../buddy/Buddy_Header.md#judgment-bolt) 여러 개를 발사한다.)* "**하지만 그게 무슨 소용이냐! 태양이고 천광의 대적자고 한낱 악한 존재들 몇 마리를 상대로 무너졌다!**"
+
+* *[아이기스](../boss/Boss_Header.md#aegis)를 등에 결합한* *__???는__* *아에토스 디오스의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라 포메이션을 요격하고 엑스큐션을 피해버렸다.*
+
+> **[버디](../buddy/Buddy_Header.md):** *([성흔안](../buddy/Buddy_Header.md#stigmata-eyes)을 충전한다.)* "너무 초라했다. 내 스스로가 너무나도 한심했다. 내게 남은 것이라곤 속죄 제물 하나뿐이었다."
 >
-> "너무 초라했다. 내 스스로가 너무나도 한심했다. 내게 남은 것이라곤 속죄 제물 하나뿐이었다."
+> *(안광을 **???에게** 주사하여 추락시킨다.)* "**그렇다! 그저 조금이라도 심판을 더 유예받기 위하여 사명을 섬겼다! 나는 한낱 악인일 뿐이다!**"
+
+* *__???는__* *[아이기스](../boss/Boss_Header.md#aegis)로 안광을 가린 뒤, [아스트라페](../boss/Boss_Header.md#astrape)로 할복하여 공허 폭풍을 소환하고 그 안으로 사라졌다.*
+* *그리고 공허 폭풍이 여러 개 소환되어 [버디](../buddy/Buddy_Header.md)를 에워쌌으며, 그것들은 악한 영들처럼 다가오고 있었다.*
+
+> **[보스](../boss/Boss_Header.md):** *([버디](../buddy/Buddy_Header.md)의 뒤에서 나타나 [아이기스](../boss/Boss_Header.md#aegis)로 가격해 쓰러뜨린다.)* "어째서 영겁의 세월 동안 숨기신 겁니까, 이제야 시인하시는 겁니까!"
 >
-> "그렇다, 나는 한낱 악인일 뿐이다. 그저 조금이라도 심판을 더 유예받기 위하여 사명을 섬겼다."
+> *([버디](../buddy/Buddy_Header.md)의 왼쪽 어깨 뒤를 [아스트라페](../boss/Boss_Header.md#astrape)로 난도질하여 [성흔안](../buddy/Buddy_Header.md)을 도려낸다.)* "**지옥은, 적어도 [포춘](../misfortune/Misfortune_Header.md#fortune) 씨는 소멸하는 순간에도 당신을 알지 못하였습니다!**"
 
-> **???:** "너를 이렇게... 그 빌어먹을... 위도 아래도 없는 새끼가..."
-
-> **[보스](../boss/Boss_Header.md):** *([아이기스](../boss/Boss_Header.md#aegis)로 [버디](../buddy/Buddy_Header.md)를 가격해 쓰러뜨린다.)* "어째서 영겁의 세월 동안 숨기신 겁니까, 이제야 시인하시는 겁니까! **지옥은, 적어도 [미스포춘](../misfortune/Misfortune_Header.md) 씨는 소멸하는 순간에도 당신을 알지 못하였습니다!**"
-
-> **[보스](../boss/Boss_Header.md):** *([아스트라페](../boss/Boss_Header.md#astrape)를 [버디](../buddy/Buddy_Header.md)에게 겨누었다.)* "**당신의 영혼 그 자체를 알았더라면, [미스포춘](../misfortune/Misfortune_Header.md) 씨가 당신을 용서했으리라고 생각하시는 겁니까?**"
+> **[보스](../boss/Boss_Header.md):** *([버디](../buddy/Buddy_Header.md)를 짓밟아 완전히 무력화한다.)* "**당신의 영혼 그 자체를 알았더라면, [포춘](../misfortune/Misfortune_Header.md#fortune) 씨가 당신을 용서했으리라 생각하시는 겁니까?**"
 
 > **[라아자젤](../buddy/Buddy_Header.md#la'azazel):** "그렇다면 제가 심판받아 마땅하겠군요. 제가 주인을 섬김이 악인을 풀어놓았을 뿐이니까요."
 >
@@ -1141,13 +1148,13 @@
 >
 > "후... 좋습니다. [라아자젤](../buddy/Buddy_Header.md#la'azazel) 씨는 영혼 그 자체가 아닌 적이 없었으니까 누구보다 [버디](../buddy/Buddy_Header.md) 씨를 잘 알고 있으리라 믿겠습니다."
 
-> **[스피릿](../misfortune/Misfortune_Header.md#spirit):** *([버디](../buddy/Buddy_Header.md)를 휘감는다.)* "와, 당신 정말 뱀 같네요! 영혼 그 자체를 숨기고 있었다니... 감쪽같이 속았어요!"
+> **[스피릿](../misfortune/Misfortune_Header.md#spirit):** *([코르누코피아](../misfortune/Misfortune_Header.md#cornucopia)에서 불쑥 튀어나와 [버디](../buddy/Buddy_Header.md)를 휘감는다.)* "와, 당신 정말 뱀 같네요! 영혼 그 자체를 숨기고 있었다니... 감쪽같이 속았어요!"
 
 > **[버디](../buddy/Buddy_Header.md):** *(반가워한다.)* "**뭐야, [스피릿](../misfortune/Misfortune_Header.md#spirit)!?**"
 
 > **[스피릿](../misfortune/Misfortune_Header.md#spirit):** "뭘 꼬라보세요, 심판자님? 저는 당신이 누군지도 몰라요! [포춘](../misfortune/Misfortune_Header.md#fortune)이 용서했다면 용서한 거죠!"
 
-> **[버디](../buddy/Buddy_Header.md):** *(경악한다.)* "아... 아니 그게..."
+> **[버디](../buddy/Buddy_Header.md):** *(당황한다.)* "아... 아니 그게..."
 
 > **[스피릿](../misfortune/Misfortune_Header.md#spirit):** *(용광로의 한기에 머리를 비빈다.)* "구원자님도 딱히 신경 쓰지 않았던 거 아니었나요?"
 
@@ -1157,9 +1164,9 @@
 
 > **[스피릿](../misfortune/Misfortune_Header.md#spirit):** *(빙글빙글 돈다.)* "**아니이이잇!!! 어떻게에에에!!!???**"
 
-> **[보스](../boss/Boss_Header.md):** *([스피릿](../misfortune/Misfortune_Header.md#spirit)의 프센트와 티르소스-카두케우스를 정리해 준다.)* "제 시험은 끝났습니다. 돌아가서 [밀키](../milky/Milky_Header.md) 씨를 만나세요."
+> **[보스](../boss/Boss_Header.md):** *([스피릿](../misfortune/Misfortune_Header.md#spirit)의 프센트와 티르소스-카두케우스를 정리해 준다.)* "아이고 이런... 제 시험은 이미 끝났습니다. 돌아가서 [밀키](../milky/Milky_Header.md) 씨를 만나세요."
 >
-> "물론 소멸한 사자들의 장비로 또다시 할복을 시도한다면 그것은 사자들을 존중하지 않는다는 의미로 받아들이겠습니다."
+> *([아스트라페](../boss/Boss_Header.md#astrape)를 [버디](../buddy/Buddy_Header.md)에게 돌려준다.)* "물론 소멸한 사자들의 장비로 또다시 할복을 시도한다면 그것은 사자들을 존중하지 않는다는 의미로 받아들이겠습니다."
 
 ---
 
@@ -1341,7 +1348,7 @@ Kawān, Text C:3-5
 ```
 
 * **마웨이의 비행**
-  - [철거](#demolition) -- *[보스](../boss/Boss_Header.md)는 회오리바람처럼 [아이기스](../boss/Boss_Header.md#aegis)의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
+  - [철거](#demolition) -- *[아이기스](../boss/Boss_Header.md#aegis)를 등에 결합한 [보스](../boss/Boss_Header.md)는 회오리바람처럼 아에토스 디오스의 [날개](./Messengers_Header.md#wings)로 독수리처럼 날아올라, 피조 세계를 가로질러 대광야를 통과했다.*
 
 ```text
 4Q530 7 ii 6–[...]
@@ -1385,7 +1392,10 @@ Kawān, Text G:1-11
   ወጽድቀ፡ርእሰ፡መዋዕል፡ኢይኀድገከ።
 ```
 
-> *그리고 그 천사가 내게로 와서, 그리고 나에게 문안하며 그의 음성으로, 그리고 내게 말하였다.<br>네가 바로 의를 위하여 태어난 인자이니라;<br>그리고 의가 네 위에 머무니라;<br>그리고 날들의 머리의 의가, 너를 떠나지 아니하리라.*
+> *그리고 그 천사가 내게로 와서, 그리고 나에게 문안하며 그의 음성으로, 그리고 내게 말하였다.*
+> *네가 바로 의를 위하여 태어난 인자이니라;*
+> *그리고 의가 네 위에 머무니라;*
+> *그리고 날들의 머리의 의가, 너를 떠나지 아니하리라.*
 
 * **제2성전기 인자 개념**
   - [재탄생](#rebirth) -- "너는 의를 위하여 태어난 인자로다."

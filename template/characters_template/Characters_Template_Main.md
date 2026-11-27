@@ -37,6 +37,18 @@
 
 ---
 
+## non-canon
+
+* *null*
+
+---
+
+### null
+
+> **Characters:** *(null)* "null"
+
+---
+
 ## concept
 
 * null

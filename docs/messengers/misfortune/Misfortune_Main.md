@@ -1,4 +1,4 @@
-## spin-off
+## non-canon
 
 * *포춘은 백색 제복과 회색 성벽관, 회색 포인트의 갈색 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae), 갈색 [코르누코피아](./Misfortune_Header.md#cornucopia)를 착용하고 있으며, 미스포춘의 상반신이다.*
 * *그녀는 흑색 이음새가 드러날 정도로 신체 곳곳이 깨져 있고, 등 뒤의 [운명의 수레바퀴](./Misfortune_Header.md#rota-fortunae)에 속박되어 있으며, 적안이 없는 흑색의 [성흔](../buddy/Buddy_Header.md#stigmata-eyes)이 양팔을 대신하고 있다.*
@@ -14,15 +14,23 @@
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(걱정한다.)* "두려워하시면 제가 곤란해요. [지옥](../messengers/Messengers_Header.md#hell)의 [사자들](../messengers/Messengers_Header.md) 처음 보세요?"
 
+---
+
 > **[포춘](./Misfortune_Header.md#fortune):** *(정색한다.)* "공과 사는 확실하게 합시다. 저는 사명 때문에 당신을 모실 뿐입니다."
+
+---
 
 > **[포춘](./Misfortune_Header.md#fortune):** *(해맑게 웃는다.)* "제가 화내는 모습이 보고 싶으셨군요?"
 >
 > *(격노하여 [코르누코피아](./Misfortune_Header.md#cornucopia)로 폭행한다.)* "**내 뿔 건드리지 마, 애미 뒤진 씨발 새끼야!!!**"
 
+---
+
 > **[포춘](./Misfortune_Header.md#fortune):** *([스피릿](./Misfortune_Header.md#spirit)의 독니를 드러낸다.)* "**아무래도 빨리 끝내 드려야겠죠?**"
 
-> **[포춘](./Misfortune_Header.md#fortune):** *(쓰러져서 [코르누코피아](./Misfortune_Header.md#cornucopia)를 끌어안고 운다.)* "우리는... 언젠가 다시 만날 수 있을까요?"
+---
+
+> **[포춘](./Misfortune_Header.md#fortune):** *(쓰러져서 [코르누코피아](./Misfortune_Header.md#cornucopia)를 끌어안고 눈물을 흘린다.)* "우리는... 언젠가 다시 만날 수 있을까요?"
 
 ---
 
@@ -37,7 +45,7 @@
 ## world-building
 
 * **Copper alloy statuette of the god Sarapis Amun Agathodaemon (National Archaeological Museum of Athens 소장)**
-  - [특징](#characteristics)
+  - [논 카논](#non-canon)
 * **융합주의(Agathos Daimon)**
   - [코르누코피아](./Misfortune_Header.md#cornucopia)
   - [스피릿](./Misfortune_Header.md#spirit)

@@ -1,4 +1,4 @@
-## spin-off
+## non-canon
 
 * *앵무새는 [그레이븐](../graven/Graven_Header.md)의 아내였으나, [윙코기](../wing_corgi/Wing_Corgi_Header.md)에게 사냥당하였다.*
   - *그녀는 복수를 위해 부활했으나, 기억을 잃었다.*

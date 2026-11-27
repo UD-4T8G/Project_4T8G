@@ -1,4 +1,4 @@
-## spin-off
+## non-canon
 
 * *추여사는 "추하다 추여사" 놀림을 받고 진짜로 추해진 빌런이다.*
   - *그녀는 연승을 거듭하여 추침팬지, 추고릴라, 추침팬고릴라로 진화해 대륙 파괴급 재앙이 되었다.*
@@ -10,6 +10,8 @@
 ### lines
 
 > **추여사:** "아! 우! 에!([욕쟁이 할머니](../cursing_grandma/Cursing_Grandma_Header.md) 바보!)"
+
+---
 
 > **추여사:** "Where is 아! 우!([욕쟁이 할머니](../cursing_grandma/Cursing_Grandma_Header.md)는 어디 있지?)"
 

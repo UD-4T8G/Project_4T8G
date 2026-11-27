@@ -1235,7 +1235,7 @@
 
 > **달래야 하는 [밀키](../milky/Milky_Header.md):** *(패닉에 빠진다.)* "**이건 가짜야! 다들 어디 있어? 어디 갔냐고!**"
 
-> **호 [오피스](../milky/Milky_Header.md#ophis) 호 아르카이오스:** *(달래야 하는 [밀키](../milky/Milky_Header.md)를 집어삼킨다.)* "*__너는 악을 위하여 태어난 인자로다.__*"
+> **호 [오피스](../milky/Milky_Header.md#ophis) 호 아르카이오스:** *(달래야 하는 [밀키](../milky/Milky_Header.md)를 집어삼킨다.)* "*__네가 바로 악을 위하여 태어난 인자이니라.__*"
 
 * *달래야 하는 [밀키](../milky/Milky_Header.md)는 호 [오피스](../milky/Milky_Header.md#ophis) 호 아르카이오스로부터 [지옥](../messengers/Messengers_Header.md#hell)의 [날개](../messengers/Messengers_Header.md#wings)를 받고, 적그리스도로서 다시 태어났다.*
 
@@ -1257,8 +1257,8 @@
 ```
 
 * **불채찍 60대(랍비 엘리샤 벤 아부야가 메타트론을 하늘의 두 권세로 오해하자, 아나피엘이 메타트론에게 가하여 두 발로 서게 하다)**  
-**Sar HaPanim(얼굴의 천사, 임재의 천사) 메타트론, 아나피엘**  
-**C, D(아나피엘(עַנְפִיאֵל)) / A, B, L(아나피엘 YHWH(עַנְפִיאֵל יְיָ))(יְיָ 표현은 יהוה 표현의 서기용 약어)**
+**Sar HaPanim (얼굴의 천사, 임재의 천사) 메타트론, 아나피엘**  
+**C, D (아나피엘(עַנְפִיאֵל)) / A, B, L (아나피엘 YHWH(עַנְפִיאֵל יְיָ))(יְיָ 표현은 יהוה 표현의 서기용 약어)**
   - [속죄](./Messengers_Header.md#redemption) -- *불채찍 60대*
   - *[천국](./Messengers_Header.md#heaven) 묘사에 대한 제한*
   - *새겨진 우상(Graven Image)* -- 사명
@@ -1438,7 +1438,7 @@ Kawān, Text G:1-11
 > *그리고 날들의 머리의 의가, 너를 떠나지 아니하리라.*
 
 * **제2성전기 인자 개념**
-  - [재탄생](#rebirth) -- "너는 의를 위하여 태어난 인자로다."
+  - [재탄생](#rebirth) -- "네가 바로 의를 위하여 태어난 인자이니라."
 
 ```text
 Ecce Homo, Zarathustra § 1
@@ -1472,7 +1472,7 @@ The Gay Science, § 125
 
 * **죽은 자를 위한 기도**
   - [연옥](./Messengers_Header.md#purgatorium) -- 기본
-* **נְהַר דִּי-נ֥וּר(네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
+* **נְהַר דִּי-נ֥וּר (네하르 디누르)(Book of Daniel, 1 ENOCH, 3 ENOCH)**
   - [연옥](./Messengers_Header.md#purgatorium) -- 연출
   - [신곡](#comedy) -- "죽은 자를 위한 기도"
 * **Pschent를 쓰고 Thyrsus와 Caduceus를 들고 있는 [Agathodaemon](../misfortune/Misfortune_Header.md)**  
@@ -1547,7 +1547,7 @@ REVELATION 3:16
   οὕτως, ὅτι χλιαρὸς εἶ καὶ [ οὔτε ζεστός οὔτε ψυχρός (A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR) / οὔτε ψυχρὸς οὔτε ζεστός (ℵ, 051, 1, 2020, 2050, 2062) ], [ μέλλω σε ἐμέσαι (ℵ, A, C, 2053, 2062, lat) / σε μέλλω ἐμέσαι (046, 051, 1006, 1611, 1841, 1854, 2344, 𝔐, TR) ] ἐκ τοῦ στόματός μου.
 ```
 
-* **ℵ, 051, 1, 2020, 2050, 2062 (οὔτε ψυχρὸς οὔτε ζεστός(차지도 아니하고 뜨겁지도 아니하니)) / A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR(οὔτε ζεστός οὔτε ψυχρός(뜨겁지도 아니하고 차지도 아니하니))**
+* **ℵ, 051, 1, 2020, 2050, 2062 (οὔτε ψυχρὸς οὔτε ζεστός (차지도 아니하고 뜨겁지도 아니하니)) / A, C, 046, 1006, 1611, 1854, 2053, 2344, 𝔐, TR (οὔτε ζεστός οὔτε ψυχρός (뜨겁지도 아니하고 차지도 아니하니))**
   - [가시](#thorn) -- "미지근해지지 않도록"
 * **2 CORINTHIANS 12:7**
   - [가시](#thorn) -- "사탄의 사자"
@@ -1559,10 +1559,10 @@ REVELATION 3:16
   - [제우스](#zeus) -- "구원자님도 딱히 신경 쓰지 않았던 거 아니었나요?"
 * **MATTHEW 22:30**
   - [첫 데이트](#first-date) -- "사내 연애는 엄격하게 금지되어 있다는 거 잊으셨나요?"
-* **Hesychasm, Palamism(Anti-Nihilism)**
+* **The Scourge of Love (Isaac of Nineveh)**
   - [첫 데이트](#first-date) -- 게힌놈과 네하르 디누르의 동일성
-* **Cup of Elijah(REVELATION 이후)**  
-**Spilling the wine for the plagues(Elegy 요소)**
+* **Cup of Elijah (REVELATION 이후)**  
+**Spilling the wine for the plagues (Elegy 요소)**
   - [첫 데이트](#first-date) -- 잔(제한적 인용)
 
 ```text

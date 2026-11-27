@@ -59,7 +59,7 @@
 * *무형 밀키(Medium)의 머리는 정상적인 [멀티폴](./Milky_Header.md#multipole)로 작동했으며, [오피스](./Milky_Header.md#ophis)에게는 무형도 발생하지 않았다.*
 * *하지만 [날개](../messengers/Messengers_Header.md#wings) 에너지 효율은 전보다 낮아졌고 [융합로](./Milky_Header.md#fusion-core) 손상 속도 또한 전보다 빨라졌다.*
 * *또한 [오피스](./Milky_Header.md#ophis)는 무수히 많고 밀키는 단 하나뿐이었으며, [오피스](./Milky_Header.md#ophis)는 부속지가 없고 밀키는 부속지가 많았다.*
-* *결정적으로 뱀 여러 마리가 소녀의 머리를 들고 다니는 모습은 누가 봐도 적그리스도로 보였기에 그만뒀다.*
+* *그래도 뱀 여러 마리가 적그리스도처럼 소녀의 머리를 들고 다니는 모습으로 [버디](../buddy/Buddy_Header.md)를 놀라게 하며 즐거워하곤 했다.*
 
 ---
 

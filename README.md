@@ -53,7 +53,7 @@
   - `Characters_Template_Source.md`: Implements concrete entity stats, actions, and sequences conforming to the schema defined in `Template_Schema.md`.
   - `Characters_Template_Header.md`: Holds character-specific YAML metadata and public `actions` / `sequences` interfaces.
   - `Characters_Template_Main.md`:
-    + Organizes character appearances and timelines (`prequel`, `spin-off`, `sequel`) with dialogue references.
+    + Organizes character appearances and timelines (`prequel`, `spin-off`, `sequel`, `non-canon`) with dialogue references.
     + Contains narrative details (`concept`, `world-building`) linked via relative anchor paths (`#`).
 
 ---
